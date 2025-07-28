@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128900740454",
+    "project_id": "ens-test-mpush",
+    "storage_bucket": "ens-test-mpush.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128900740454:android:32f9a0d622dfd6ef5d84a7",
+        "android_client_info": {
+          "package_name": "com.ens.mpush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa0hhHH8KTON7aML3971v3MVyMNQEDbOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
